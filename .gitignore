@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/bitmex.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Kallerhoff.zip

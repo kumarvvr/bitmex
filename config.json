@@ -1,0 +1,23 @@
+{
+  "NAME":"BITMEX TRADING BOT",
+  "PROGRAMMER" : "Raghavendra Kumar V Velagapudi (kumar.vvr@gmail.com)",
+
+
+  "BITMEX":{
+    "APIKEY":"YOUR KEY HERE",
+    "APISECRET":"YOUR SECRET HERE"
+  },
+  "BOT":{
+        "DELAY_BETWEEN_ORDERS":2,
+        "BUYLIMITPERCENTAGE": 3,
+        "SELLLIMITPERCENTAGE":4,
+        "QUANTITY":100
+  },
+  "CURRENCY_LIST":
+                  [
+                    "XBTUSD"
+                  ],
+  "REPEAT_EVERY_X_MINUTES" : 5,
+  "FAILURE_REPEAT_COUNT":9,
+  "FAILURE_REPEAT_DELAY":1
+}
