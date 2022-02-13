@@ -4,7 +4,7 @@
 
 
   "BITMEX":{
-    "APIKEY":"YOUR KEY HERE",
+    "APIKEY":"YOUR KEY HERE (From Site)",
     "APISECRET":"YOUR SECRET HERE"
   },
   "BOT":{
